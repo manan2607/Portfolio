@@ -19,7 +19,7 @@ export default function Home() {
       
       <Head>
       <link rel='icon' href='./img/logo.png' />
-        <title>Manan's World</title>
+        <title>Manan{"'"}s World</title>
       </Head>
       
       {/* Header */}
